@@ -16,7 +16,7 @@ jobs:
       - name: FTP Deploy to OVH
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: ftp.alixbocquier.fr
+          server: ftp.cluster023.hosting.ovh.net
           username: alixbocqmf
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: /www/archivescover/   # <-- On cible ton dossier archivescover
