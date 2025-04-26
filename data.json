@@ -349,5 +349,14 @@
     "date": "1993",
     "graphiste": "",
     "tags": ["photo"]
+  },
+  {
+    "id": 40,
+    "cover": "sources/docgyneco-premiereconsultation.jpg",
+    "auteur": "Doc Gynéco",
+    "titre": "Première Consultation",
+    "date": "15/04/1996",
+    "graphiste": "",
+    "tags": ["photo"]
   }
 ]
