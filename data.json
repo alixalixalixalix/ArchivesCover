@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1,
+    "cover": "sources/tedaxmax-formeolympique.jpg",
+    "auteur": "Tedax Max",
+    "titre": "Forme Olympique : Middle Season",
+    "date": "18/06/2021",
+    "graphiste": "Danshi Zen",
+    "tags": ["kitsch", "font"]
+  },
+  {
+    "id": 2,
+    "cover": "sources/luciobukowski-asadachitape1.jpg",
+    "auteur": "Lucio Bukowski",
+    "titre": "ASADACHI TAPE Vol. 1",
+    "date": "09/04/2021",
+    "graphiste": "",
+    "tags": ["kitsch", "collage"]
+  },
+  {
+    "id": 3,
+    "cover": "sources/8ruki-poweredbyrukiHD.jpg",
+    "auteur": "8ruki",
+    "titre": "PoweredByRuki HD",
+    "date": "28/10/2022",
+    "graphiste": "MouataLePlug",
+    "tags": ["scan", "texture"]
+  },
+  {
+    "id": 4,
+    "cover": "sources/fixpensill-flag.jpg",
+    "auteur": "Fixpen Sill",
+    "titre": "FLAG",
+    "date": "04/10/2019",
+    "graphiste": "Rægular",
+    "tags": ["aplat", "photo"]
+  },
+  {
+    "id": 5,
+    "cover": "sources/grems-sanstitre.jpg",
+    "auteur": "Grems",
+    "titre": "Sans titre #7",
+    "date": "19/01/2018",
+    "graphiste": "Grems",
+    "tags": ["dessin", "abstrait"]
+  },
+  {
+    "id": 6,
+    "cover": "sources/leleee-letroudever.jpg",
+    "auteur": "Leleee",
+    "titre": "Le Trou de Ver",
+    "date": "27/02/2022",
+    "graphiste": "",
+    "tags": ["dessin", "kitsch"]
+  },
+  {
+    "id": 7,
+    "cover": "sources/luther-exit.jpg",
+    "auteur": "Luther",
+    "titre": "EXIT",
+    "date": "01/03/2024",
+    "graphiste": "",
+    "tags": ["photo"]
+  },
+  {
+    "id": 8,
+    "cover": "sources/39bermuda-bruit.jpg",
+    "auteur": "39bermuda",
+    "titre": "Bruit",
+    "date": "03/05/2024",
+    "graphiste": "",
+    "tags": ["scan", "font"]
+  },
+  {
+    "id": 9,
+    "cover": "sources/alittlerooster-oasis.jpg",
+    "auteur": "A Little Rooster + Waltmann",
+    "titre": "Oasis",
+    "date": "27/11/2020",
+    "graphiste": "Lucas Matichard",
+    "tags": ["photo"]
+  },
+  {
+    "id": 10,
+    "cover": "sources/alphawann-umla.jpg",
+    "auteur": "Alpha Wann",
+    "titre": "UNE MAIN LAVE L’AUTRE",
+    "date": "21/09/2018",
+    "graphiste": "Rægular",
+    "tags": ["photo"]
+  },
+  {
+    "id": 11,
+    "cover": "sources/odezenne-1200.jpg",
+    "auteur": "Odezenne",
+    "titre": "1200 mètres en tout Odezenne",
+    "date": "07/01/2022",
+    "graphiste": "Edouard Nardon",
+    "tags": ["photo"]
+  },
+  {
+    "id": 12,
+    "cover": "sources/lala&ce-everythingtasteful.jpg",
+    "auteur": "Lala &ce",
+    "titre": "Everything Tasteful",
+    "date": "29/01/2021",
+    "graphiste": "Charaf Tajer",
+    "tags": ["photo", "font"]
+  },
+  {
+    "id": 13,
+    "cover": "sources/sheldon-seul(s).jpg",
+    "auteur": "Sheldon",
+    "titre": "Seul(s)",
+    "date": "24/11/2023",
+    "graphiste": "Tenzin",
+    "tags": ["scan"]
+  },
+  {
+    "id": 14,
+    "cover": "sources/bleunuit-222.jpg",
+    "auteur": "Bleu Nuit",
+    "titre": "222",
+    "date": "22/10/2023",
+    "graphiste": "Narcoleps.ia",
+    "tags": ["photo", "dessin", "abstrait"]
+  },
+  {
+    "id": 15,
+    "cover": "sources/zedyunpavarotti-frenchcash.jpg",
+    "auteur": "Zed Yun Pavarotti",
+    "titre": "French Cash",
+    "date": "17/05/2019",
+    "graphiste": "CLT",
+    "tags": ["aplat"]
+  },
+  {
+    "id": 16,
+    "cover": "sources/sopico-episode0.jpg",
+    "auteur": "Sopico",
+    "titre": "Ëpisode 0",
+    "date": "01/05/2020",
+    "graphiste": "Scotty Simper, Yannick Boh & Sazura Visuals",
+    "tags": ["texture"]
+  },
+  {
+    "id": 17,
+    "cover": "sources/foulquesnera-siege.jpg",
+    "auteur": "Foulques Nera",
+    "titre": "Siège",
+    "date": "18/02/2018",
+    "graphiste": "",
+    "tags": ["photo"]
+  },
+  {
+    "id": 18,
+    "cover": "sources/majdonco-sun7even.jpg",
+    "auteur": "Majdon Co.",
+    "titre": "Sun7even, Vol. 1",
+    "date": "07/07/2018",
+    "graphiste": "",
+    "tags": ["photo"]
+  },
+  {
+    "id": 19,
+    "cover": "sources/infinit-888.jpg",
+    "auteur": "Infinit'",
+    "titre": "888",
+    "date": "16/02/2024",
+    "graphiste": "Rægular",
+    "tags": ["photo", "texture"]
+  },
+  {
+    "id": 20,
+    "cover": "sources/babysolo33-confessions.jpg",
+    "auteur": "BabySolo33",
+    "titre": "SadBaby Confessions",
+    "date": "18/11/2022",
+    "graphiste": "Camille Ostwalt",
+    "tags": ["photo", "kitsch"]
+  },
+  {
+    "id": 21,
+    "cover": "sources/le77-cestle77.jpg",
+    "auteur": "Le 77'",
+    "titre": "C’est le 77",
+    "date": "2016",
+    "graphiste": "",
+    "tags": ["dessin"]
+  },
+  {
+    "id": 22,
+    "cover": "sources/dimeh-ov3.jpg",
+    "auteur": "Di-Meh",
+    "titre": "OV3",
+    "date": "30/06/2022",
+    "graphiste": "Maison Piège",
+    "tags": ["aplat", "texture"]
+  },
+  {
+    "id": 23,
+    "cover": "sources/hologramlo-lexus.jpg",
+    "auteur": "Hologram Lo’",
+    "titre": "Lexus",
+    "date": "07/08/2015",
+    "graphiste": "",
+    "tags": ["photo"]
+  },
+  {
+    "id": 24,
+    "cover": "sources/disiz-pacifique.jpg",
+    "auteur": "Disiz",
+    "titre": "Pacifique",
+    "date": "09/06/2017",
+    "graphiste": "",
+    "tags": ["photo"]
+  },
+  {
+    "id": 25,
+    "cover": "sources/jazzybazz-surlaroutedu314.jpg",
+    "auteur": "Jazzy Bazz",
+    "titre": "Sur la route du 3.14",
+    "date": "16/07/2012",
+    "graphiste": "Théophile Galliano",
+    "tags": ["dessin"]
+  },
+  {
+    "id": 26,
+    "cover": "sources/laylow-trinity.jpg",
+    "auteur": "Laylow",
+    "titre": "TRINITY",
+    "date": "28/02/2020",
+    "graphiste": "Osman Mercan, Eliott Grunewald, Hornus Studio & Maxime Guyon",
+    "tags": ["photo"]
+  },
+  {
+    "id": 27,
+    "cover": "sources/mikado-forever.jpg",
+    "auteur": "Mikado",
+    "titre": "Forever",
+    "date": "1998",
+    "graphiste": "",
+    "tags": ["photo"]
+  },
+  {
+    "id": 28,
+    "cover": "sources/mike-bewareofthemonkey.jpg",
+    "auteur": "MIKE",
+    "titre": "Beware of the Monkey",
+    "date": "21/12/2022",
+    "graphiste": "Bianca Fields",
+    "tags": ["dessin", "abstrait"]
+  },
+  {
+    "id": 29,
+    "cover": "sources/mlemaudit-macr.jpg",
+    "auteur": "M le Maudit",
+    "titre": "M.A.C.R.",
+    "date": "03/03/2023",
+    "graphiste": "Gilles Potte",
+    "tags": ["aplat"]
+  },
+  {
+    "id": 30,
+    "cover": "sources/stupeflip-terrora.jpg",
+    "auteur": "Stupeflip",
+    "titre": "Terrora !!",
+    "date": "17/09/2012",
+    "graphiste": "King Ju",
+    "tags": ["dessin"]
+  },
+  {
+    "id": 31,
+    "cover": "sources/pouya-liveandletdie.jpg",
+    "auteur": "Pouya",
+    "titre": "LIVE AND LET DIE",
+    "date": "11/10/2024",
+    "graphiste": "",
+    "tags": ["kitsch", "font"]
+  },
+  {
+    "id": 32,
+    "cover": "sources/nekfeu-cyborg.jpg",
+    "auteur": "Nekfeu",
+    "titre": "Cyborg",
+    "date": "02/12/2016",
+    "graphiste": "Rægular",
+    "tags": ["photo", "texture"]
+  },
+  {
+    "id": 33,
+    "cover": "sources/mythsyzer-cerebral.jpg",
+    "auteur": "Myth Syzer & Ikaz Boi",
+    "titre": "Cerebral",
+    "date": "17/01/2016",
+    "graphiste": "",
+    "tags": ["photo"]
+  },
+  {
+    "id": 34,
+    "cover": "sources/celestino-untitledtape..jpg",
+    "auteur": "Celestino",
+    "titre": "untitled tape.",
+    "date": "10/10/2021",
+    "graphiste": "",
+    "tags": ["abstrait"]
+  },
+  {
+    "id": 35,
+    "cover": "sources/mildlife-automatic.jpg",
+    "auteur": "Mildlife",
+    "titre": "Automatic",
+    "date": "19/09/2020",
+    "graphiste": "",
+    "tags": ["font", "aplat"]
+  },
+  {
+    "id": 36,
+    "cover": "sources/warnercase-summerontheinside.jpg",
+    "auteur": "Warner Case",
+    "titre": "​summer on the inside",
+    "date": "30/07/2021",
+    "graphiste": "",
+    "tags": ["dessin"]
+  },
+  {
+    "id": 37,
+    "cover": "sources/dkorecords-santaclaudev3.jpg",
+    "auteur": "D.KO Records",
+    "titre": "Santa Claude Volume 3",
+    "date": "24/12/2024",
+    "graphiste": "Darius Zoltan",
+    "tags": ["kitsch"]
+  },
+  {
+    "id": 38,
+    "cover": "sources/bonniebanane-sos.jpg",
+    "auteur": "Bonnie Banane",
+    "titre": "S.O.S.",
+    "date": "21/07/2022",
+    "graphiste": "Dexter Maurer",
+    "tags": ["dessin"]
+  },
+  {
+    "id": 39,
+    "cover": "sources/assassin-lefuturquenousreservetil.jpg",
+    "auteur": "Assassin",
+    "titre": "Le Futur Que Nous Réserve-t-il ?",
+    "date": "1993",
+    "graphiste": "",
+    "tags": ["photo"]
+  }
+]

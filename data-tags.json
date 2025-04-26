@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "tag": "photo"
+  },
+  {
+    "id": 2,
+    "tag": "dessin"
+  },
+  {
+    "id": 3,
+    "tag": "aplat"
+  },
+  {
+    "id": 4,
+    "tag": "font"
+  },
+  {
+    "id": 5,
+    "tag": "collage"
+  },
+  {
+    "id": 6,
+    "tag": "texture"
+  },
+  {
+    "id": 7,
+    "tag": "scan"
+  },
+  {
+    "id": 8,
+    "tag": "abstrait"
+  },
+  {
+    "id": 9,
+    "tag": "kitsch"
+  }
+]
+
