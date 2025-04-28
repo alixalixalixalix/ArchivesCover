@@ -6,6 +6,7 @@
     "titre": "Forme Olympique : Middle Season",
     "date": "18/06/2021",
     "graphiste": "Danshi Zen",
+    "lienGraphiste": "",
     "tags": ["kitsch", "font"]
   },
   {
@@ -15,6 +16,7 @@
     "titre": "ASADACHI TAPE Vol. 1",
     "date": "09/04/2021",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["kitsch", "collage"]
   },
   {
@@ -24,6 +26,7 @@
     "titre": "PoweredByRuki HD",
     "date": "28/10/2022",
     "graphiste": "MouataLePlug",
+    "lienGraphiste": "",
     "tags": ["scan", "texture"]
   },
   {
@@ -33,6 +36,7 @@
     "titre": "FLAG",
     "date": "04/10/2019",
     "graphiste": "Rægular",
+    "lienGraphiste": "",
     "tags": ["aplat", "photo"]
   },
   {
@@ -42,6 +46,7 @@
     "titre": "Sans titre #7",
     "date": "19/01/2018",
     "graphiste": "Grems",
+    "lienGraphiste": "",
     "tags": ["dessin", "abstrait"]
   },
   {
@@ -51,6 +56,7 @@
     "titre": "Le Trou de Ver",
     "date": "27/02/2022",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["dessin", "kitsch"]
   },
   {
@@ -60,6 +66,7 @@
     "titre": "EXIT",
     "date": "01/03/2024",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -69,6 +76,7 @@
     "titre": "Bruit",
     "date": "03/05/2024",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["scan", "font"]
   },
   {
@@ -78,6 +86,7 @@
     "titre": "Oasis",
     "date": "27/11/2020",
     "graphiste": "Lucas Matichard",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -87,6 +96,7 @@
     "titre": "UNE MAIN LAVE L’AUTRE",
     "date": "21/09/2018",
     "graphiste": "Rægular",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -96,6 +106,7 @@
     "titre": "1200 mètres en tout Odezenne",
     "date": "07/01/2022",
     "graphiste": "Edouard Nardon",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -105,6 +116,7 @@
     "titre": "Everything Tasteful",
     "date": "29/01/2021",
     "graphiste": "Charaf Tajer",
+    "lienGraphiste": "",
     "tags": ["photo", "font"]
   },
   {
@@ -114,6 +126,7 @@
     "titre": "Seul(s)",
     "date": "24/11/2023",
     "graphiste": "Tenzin",
+    "lienGraphiste": "https://www.instagram.com/tenzinshen/",
     "tags": ["scan"]
   },
   {
@@ -123,6 +136,7 @@
     "titre": "222",
     "date": "22/10/2023",
     "graphiste": "Narcoleps.ia",
+    "lienGraphiste": "",
     "tags": ["photo", "dessin", "abstrait"]
   },
   {
@@ -132,6 +146,7 @@
     "titre": "French Cash",
     "date": "17/05/2019",
     "graphiste": "CLT",
+    "lienGraphiste": "",
     "tags": ["aplat"]
   },
   {
@@ -141,6 +156,7 @@
     "titre": "Ëpisode 0",
     "date": "01/05/2020",
     "graphiste": "Scotty Simper, Yannick Boh & Sazura Visuals",
+    "lienGraphiste": "",
     "tags": ["texture"]
   },
   {
@@ -150,6 +166,7 @@
     "titre": "Siège",
     "date": "18/02/2018",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -159,6 +176,7 @@
     "titre": "Sun7even, Vol. 1",
     "date": "07/07/2018",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -168,6 +186,7 @@
     "titre": "888",
     "date": "16/02/2024",
     "graphiste": "Rægular",
+    "lienGraphiste": "",
     "tags": ["photo", "texture"]
   },
   {
@@ -177,6 +196,7 @@
     "titre": "SadBaby Confessions",
     "date": "18/11/2022",
     "graphiste": "Camille Ostwalt",
+    "lienGraphiste": "",
     "tags": ["photo", "kitsch"]
   },
   {
@@ -186,6 +206,7 @@
     "titre": "C’est le 77",
     "date": "2016",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["dessin"]
   },
   {
@@ -195,6 +216,7 @@
     "titre": "OV3",
     "date": "30/06/2022",
     "graphiste": "Maison Piège",
+    "lienGraphiste": "",
     "tags": ["aplat", "texture"]
   },
   {
@@ -204,6 +226,7 @@
     "titre": "Lexus",
     "date": "07/08/2015",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -213,6 +236,7 @@
     "titre": "Pacifique",
     "date": "09/06/2017",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -222,6 +246,7 @@
     "titre": "Sur la route du 3.14",
     "date": "16/07/2012",
     "graphiste": "Théophile Galliano",
+    "lienGraphiste": "",
     "tags": ["dessin"]
   },
   {
@@ -231,6 +256,7 @@
     "titre": "TRINITY",
     "date": "28/02/2020",
     "graphiste": "Osman Mercan, Eliott Grunewald, Hornus Studio & Maxime Guyon",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -240,6 +266,7 @@
     "titre": "Forever",
     "date": "1998",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -249,6 +276,7 @@
     "titre": "Beware of the Monkey",
     "date": "21/12/2022",
     "graphiste": "Bianca Fields",
+    "lienGraphiste": "",
     "tags": ["dessin", "abstrait"]
   },
   {
@@ -258,6 +286,7 @@
     "titre": "M.A.C.R.",
     "date": "03/03/2023",
     "graphiste": "Gilles Potte",
+    "lienGraphiste": "",
     "tags": ["aplat"]
   },
   {
@@ -267,6 +296,7 @@
     "titre": "Terrora !!",
     "date": "17/09/2012",
     "graphiste": "King Ju",
+    "lienGraphiste": "",
     "tags": ["dessin"]
   },
   {
@@ -276,6 +306,7 @@
     "titre": "LIVE AND LET DIE",
     "date": "11/10/2024",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["kitsch", "font"]
   },
   {
@@ -285,6 +316,7 @@
     "titre": "Cyborg",
     "date": "02/12/2016",
     "graphiste": "Rægular",
+    "lienGraphiste": "",
     "tags": ["photo", "texture"]
   },
   {
@@ -294,6 +326,7 @@
     "titre": "Cerebral",
     "date": "17/01/2016",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -303,6 +336,7 @@
     "titre": "untitled tape.",
     "date": "10/10/2021",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["abstrait"]
   },
   {
@@ -312,6 +346,7 @@
     "titre": "Automatic",
     "date": "19/09/2020",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["font", "aplat"]
   },
   {
@@ -321,6 +356,7 @@
     "titre": "​summer on the inside",
     "date": "30/07/2021",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["dessin"]
   },
   {
@@ -330,6 +366,7 @@
     "titre": "Santa Claude Volume 3",
     "date": "24/12/2024",
     "graphiste": "Darius Zoltan",
+    "lienGraphiste": "",
     "tags": ["kitsch"]
   },
   {
@@ -339,6 +376,7 @@
     "titre": "S.O.S.",
     "date": "21/07/2022",
     "graphiste": "Dexter Maurer",
+    "lienGraphiste": "",
     "tags": ["dessin"]
   },
   {
@@ -348,6 +386,7 @@
     "titre": "Le Futur Que Nous Réserve-t-il ?",
     "date": "1993",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -357,6 +396,7 @@
     "titre": "Première Consultation",
     "date": "15/04/1996",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -366,6 +406,7 @@
     "titre": "QUI A VOLÉ LE SOLEIL ?",
     "date": "17/03/1996",
     "graphiste": "Mathieu Boudot",
+    "lienGraphiste": "",
     "tags": ["dessin"]
   },
   {
@@ -375,6 +416,7 @@
     "titre": "Jeunes, coupables et libres",
     "date": "13/04/1998",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["dessin"]
   },
   {
@@ -384,6 +426,7 @@
     "titre": "Le fond et la forme",
     "date": "00/04/1997",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo", "font"]
   },
   {
@@ -393,6 +436,7 @@
     "titre": "LAG",
     "date": "03/06/2022",
     "graphiste": "Salucv",
+    "lienGraphiste": "",
     "tags": ["montage", "photo"]
   },
   {
@@ -402,6 +446,7 @@
     "titre": "Ombre est lumière",
     "date": "09/11/1993",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -411,6 +456,7 @@
     "titre": "L'palais de justice",
     "date": "1999",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   },
   {
@@ -420,6 +466,7 @@
     "titre": "Qu’est-ce qui fait marcher les sages?",
     "date": "15/02/1995",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo", "aplat", "font"]
   },
   {
@@ -429,6 +476,7 @@
     "titre": "95200",
     "date": "11/07/1994",
     "graphiste": "",
+    "lienGraphiste": "",
     "tags": ["photo"]
   }
 ]

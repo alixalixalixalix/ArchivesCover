@@ -18,7 +18,7 @@ body {
   overflow-x: scroll;
 }
 
-#containerColonnes {
+#containerGrid {
   margin-bottom: 36px;
   display: flex;
   gap: 8px;
@@ -28,7 +28,6 @@ body {
     margin: 0;
   }
   button {
-    background-color: white;
     border: 1.5px solid black;
     border-radius: 50px;
     padding: 4px 8px;
@@ -51,7 +50,11 @@ body {
   cursor: pointer;
 }
 
-.actif {
+.tagActif {
+  background-color: black;
+  color: white;
+}
+.gridActif {
   background-color: black;
   color: white;
 }
@@ -63,7 +66,6 @@ body {
   flex-wrap: wrap;
   gap: 36px;
   .cardCover {
-    width: 30%;
     div {
       display: flex;
       align-items: center;
@@ -84,6 +86,19 @@ body {
     margin-top: 0;
     margin-bottom: 4px;
   }
+}
+
+.grid2 {
+  width: 45%;
+}
+.grid3 {
+  width: 30%;
+}
+.grid4 {
+  width: 20%;
+}
+.grid5 {
+  width: 16%;
 }
 
 .cardCover {

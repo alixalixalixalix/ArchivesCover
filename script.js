@@ -20,13 +20,14 @@ const fetchData = async () => {
         const tirage = randomTirage(newDataCovers);
         const div = document.createElement("div");
         div.classList.add("cardCover");
+        div.classList.add("grid3");
         const img = document.createElement("img");
         const divTitre = document.createElement("div");
         const titre = document.createElement("h2");
         const auteur = document.createElement("p");
         const divDateTag = document.createElement("div");
         const date = document.createElement("p");
-        const graphiste = document.createElement("p");
+        const graphiste = document.createElement("a");
 
         containerCover.appendChild(div);
         div.appendChild(img);
@@ -41,12 +42,17 @@ const fetchData = async () => {
         auteur.innerText = tirage.auteur;
         titre.innerText = tirage.titre;
         date.innerText = tirage.date;
-        if(tirage.graphiste === ""){
+        if (tirage.lienGraphiste === "") {
+          graphiste.innerHTML = "p";
+        } else {
+          graphiste.href = tirage.lienGraphiste;
+          graphiste.target = "_blank";
+        }
+        if (tirage.graphiste === "") {
           graphiste.innerText = "";
-
-        }else {
-        graphiste.innerText = "→ " + tirage.graphiste;
-      }
+        } else {
+          graphiste.innerText = "→ " + tirage.graphiste;
+        }
 
         // Affichage des tags dans les cards
         tirage.tags.map((lesTags) => {
@@ -73,8 +79,8 @@ const fetchData = async () => {
     let buttonAll = document.getElementById("all").innerText;
     for (let i = 0; i < allButtonsFilters.length; i++) {
       allButtonsFilters[i].addEventListener("click", function () {
-        document.querySelector(".actif").classList.remove("actif"); //suppr la class active
-        allButtonsFilters[i].classList.add("actif"); //ajoute la class sur élément cliqué
+        document.querySelector(".tagActif").classList.remove("tagActif"); //suppr la class active
+        allButtonsFilters[i].classList.add("tagActif"); //ajoute la class sur élément cliqué
         let filtreAction = dataCovers.filter(function (covers) {
           if (allButtonsFilters[i].innerText === buttonAll) {
             return covers.tags;
@@ -83,9 +89,39 @@ const fetchData = async () => {
           }
         });
         generatorCovers(filtreAction);
+        applyGridToCovers();
       });
     }
-/*
+
+    let currentGridClass = "grid5";
+    let allButtonsGrid = document.querySelectorAll("#containerGrid button");
+    let gridClasses = ["grid2", "grid3", "grid4", "grid5"];
+    
+    allButtonsGrid.forEach((button, index) => {
+      button.addEventListener("click", function () {
+        const actifButton = document.querySelector(".gridActif");
+        if (actifButton) {
+          actifButton.classList.remove("gridActif"); // supprime l'ancien actif
+        }
+        button.classList.add("gridActif"); // ajoute la classe sur l'élément cliqué
+    
+        currentGridClass = gridClasses[index]; // met à jour la grille active
+        applyGridToCovers();
+      });
+    });
+    
+    // Fonction pour appliquer la classe de grille actuelle
+    function applyGridToCovers() {
+      let cardCover = document.querySelectorAll("#containerCover > div");
+      cardCover.forEach(div => {
+        // On retire les anciennes classes
+        gridClasses.forEach(cls => div.classList.remove(cls));
+        // On ajoute la classe actuelle
+        div.classList.add(currentGridClass);
+      });
+    }
+    
+    /*
     // Tri date fonctionnel sans random
     const boutonDate = document.getElementById("date");
     boutonDate.addEventListener("click", function () {
@@ -98,10 +134,11 @@ const fetchData = async () => {
     });
 */
     generatorCovers(dataCovers);
+    applyGridToCovers();
+
   } catch (error) {
     console.error("Erreur lors de la récupération des données :", error);
   }
-    
 };
 
 fetchData();
