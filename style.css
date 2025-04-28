@@ -21,7 +21,7 @@ body {
 #containerColonnes {
   margin-bottom: 36px;
   display: flex;
-  gap:8px;
+  gap: 8px;
   align-items: center;
   justify-content: center;
   p {
@@ -32,7 +32,10 @@ body {
     border: 1.5px solid black;
     border-radius: 50px;
     padding: 4px 8px;
-    cursor: pointer;
+    &:hover {
+      background-color: grey;
+      cursor: pointer;
+    }
   }
 }
 
@@ -50,9 +53,8 @@ body {
 
 .actif {
   background-color: black;
-  color:white;
+  color: white;
 }
-
 
 #containerCover {
   margin: 16px;
@@ -69,7 +71,8 @@ body {
       gap: 8px;
       margin-top: 8px;
       margin-bottom: 8px;
-      h2, p {
+      h2,
+      p {
         margin: 0;
       }
     }
@@ -91,6 +94,6 @@ body {
   button {
     border-radius: 20px;
     border: 0px;
-    background-color: #ECECEC;
+    background-color: #ececec;
   }
 }
