@@ -367,5 +367,14 @@
     "date": "15/04/1996",
     "graphiste": "Seb Le Gall",
     "tags": ["photo", "aplat", "font"]
+  },
+  {
+    "id": 42,
+    "cover": "sources/slimkamairo-quiavolelesoeil?.png",
+    "auteur": "Slima, Mairo",
+    "titre": "QUI A VOLÉ LE SOLEIL ?",
+    "date": "17/03/1996",
+    "graphiste": "Mathieu Boudot",
+    "tags": ["dessin"]
   }
 ]
