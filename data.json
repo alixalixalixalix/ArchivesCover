@@ -358,5 +358,14 @@
     "date": "15/04/1996",
     "graphiste": "",
     "tags": ["photo"]
+  },
+  {
+    "id": 41,
+    "cover": "sources/wesh1.png",
+    "auteur": "Heskis",
+    "titre": "37",
+    "date": "15/04/1996",
+    "graphiste": "Seb Le Gall",
+    "tags": ["photo", "aplat", "font"]
   }
 ]
