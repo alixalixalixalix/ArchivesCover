@@ -362,10 +362,73 @@
   {
     "id": 41,
     "cover": "sources/slimkamairo-quiavolelesoeil.jpg",
-    "auteur": "Slima, Mairo",
+    "auteur": "Slimka, Mairo",
     "titre": "QUI A VOLÉ LE SOLEIL ?",
     "date": "17/03/1996",
     "graphiste": "Mathieu Boudot",
     "tags": ["dessin"]
+  },
+  {
+    "id": 42,
+    "cover": "sources/xmen-jeunescoupablesetlibres.jpg",
+    "auteur": "X-Men",
+    "titre": "Jeunes, coupables et libres",
+    "date": "13/04/1998",
+    "graphiste": "",
+    "tags": ["dessin"]
+  },
+  {
+    "id": 43,
+    "cover": "sources/fabe-lefondetlaforme.png",
+    "auteur": "Fabe",
+    "titre": "Le fond et la forme",
+    "date": "00/04/1997",
+    "graphiste": "",
+    "tags": ["dessin"]
+  },
+  {
+    "id": 44,
+    "cover": "sources/nunca-lag.jpg",
+    "auteur": "Nunca & Bupropion",
+    "titre": "LAG",
+    "date": "03/06/2022",
+    "graphiste": "Salucv",
+    "tags": ["montage", "photo"]
+  },
+  {
+    "id": 45,
+    "cover": "sources/iam-ombreestlumiere.jpg",
+    "auteur": "IAM",
+    "titre": "Ombre est lumière",
+    "date": "09/11/1993",
+    "graphiste": "",
+    "tags": ["photo"]
+  },
+  {
+    "id": 46,
+    "cover": "sources/freeman-lpalaisdejustice.jpg",
+    "auteur": "Freeman",
+    "titre": "L'palais de justice",
+    "date": "1999",
+    "graphiste": "",
+    "tags": ["photo"]
+  },
+  {
+    "id": 47,
+    "cover": "sources/lessagespoetesdelarue-questcequifaitmarcherlessages.jpg",
+    "auteur": "Les Sages Poètes de la Rue",
+    "titre": "Qu’est-ce qui fait marcher les sages?",
+    "date": "15/02/1995",
+    "graphiste": "",
+    "tags": ["photo", "aplat", "font"]
+  },
+  {
+    "id": 48,
+    "cover": "sources/lessagespoetesdelarue-questcequifaitmarcherlessages.jpg",
+    "auteur": "Ministère A.M.E.R.",
+    "titre": "95200",
+    "date": "11/07/1994",
+    "graphiste": "",
+    "tags": ["photo"]
   }
 ]
