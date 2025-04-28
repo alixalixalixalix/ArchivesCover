@@ -361,16 +361,7 @@
   },
   {
     "id": 41,
-    "cover": "sources/WESH1.png",
-    "auteur": "Heskis",
-    "titre": "37",
-    "date": "15/04/1996",
-    "graphiste": "Seb Le Gall",
-    "tags": ["photo", "aplat", "font"]
-  },
-  {
-    "id": 42,
-    "cover": "sources/slimkamairo-quiavolelesoeil?.png",
+    "cover": "sources/slimkamairo-quiavolelesoeil?.jpg",
     "auteur": "Slima, Mairo",
     "titre": "QUI A VOLÉ LE SOLEIL ?",
     "date": "17/03/1996",
