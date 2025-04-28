@@ -21,22 +21,37 @@ const fetchData = async () => {
         const div = document.createElement("div");
         div.classList.add("cardCover");
         const img = document.createElement("img");
-        const auteur = document.createElement("h2");
-        const titre = document.createElement("p");
+        const divTitre = document.createElement("div");
+        const titre = document.createElement("h2");
+        const auteur = document.createElement("p");
+        const divDateTag = document.createElement("div");
+        const date = document.createElement("p");
+        const graphiste = document.createElement("p");
 
         containerCover.appendChild(div);
         div.appendChild(img);
-        div.appendChild(auteur);
-        div.appendChild(titre);
+        div.appendChild(divTitre);
+        divTitre.appendChild(titre);
+        divTitre.appendChild(auteur);
+        div.appendChild(divDateTag);
+        divDateTag.appendChild(date);
+        div.appendChild(graphiste);
 
         img.src = tirage.cover;
         auteur.innerText = tirage.auteur;
         titre.innerText = tirage.titre;
+        date.innerText = tirage.date;
+        if(tirage.graphiste === ""){
+          graphiste.innerText = "";
+
+        }else {
+        graphiste.innerText = "→ " + tirage.graphiste;
+      }
 
         // Affichage des tags dans les cards
         tirage.tags.map((lesTags) => {
           const tags = document.createElement("button");
-          div.appendChild(tags);
+          divDateTag.appendChild(tags);
           tags.innerText = lesTags;
         });
       }
