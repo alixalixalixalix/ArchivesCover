@@ -384,7 +384,7 @@
     "titre": "Le fond et la forme",
     "date": "00/04/1997",
     "graphiste": "",
-    "tags": ["dessin"]
+    "tags": ["photo", "font"]
   },
   {
     "id": 44,
@@ -424,7 +424,7 @@
   },
   {
     "id": 48,
-    "cover": "sources/lessagespoetesdelarue-questcequifaitmarcherlessages.jpg",
+    "cover": "sources/ministeramer-95200.jpg",
     "auteur": "Ministère A.M.E.R.",
     "titre": "95200",
     "date": "11/07/1994",
