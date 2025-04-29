@@ -95,7 +95,7 @@ const fetchData = async () => {
 
     let currentGridClass = "grid5";
     let allButtonsGrid = document.querySelectorAll("#containerGrid button");
-    let gridClasses = ["grid2", "grid3", "grid4", "grid5"];
+    let gridClasses = ["grid3", "grid4", "grid5"];
     
     allButtonsGrid.forEach((button, index) => {
       button.addEventListener("click", function () {
